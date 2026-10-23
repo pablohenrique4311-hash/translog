@@ -1,0 +1,6 @@
+{
+  "name": "TransLog Pro - Gestão de Transportadora",
+  "description": "Sistema completo e profissional para gestão de transportadoras com leitura de romaneios em PDF, controle de viagens, frota, acerto de motoristas e financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
